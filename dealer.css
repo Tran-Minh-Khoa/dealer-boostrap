@@ -1,0 +1,59 @@
+body {
+    background-color: #e8eff0;
+}
+
+.dealer {
+    line-height: 31px;
+    color: #4b4b4b;
+    font-weight: bold;
+    font-family: "Yellowtail", "Yellowtail";
+
+}
+
+p {
+    border-right-style:dashed ;  
+    color: #4b4b4b;
+    border-width: 1px;
+    padding-right: 20px;
+    margin: auto;
+
+}
+.nav-item {
+    display: flex;
+    font-size: 15px;
+    line-height: 13px;
+    fill: #4b4b4b;
+    font-weight: bold;
+    font-family: "Helvetica", "Helvetica";
+}
+.btn-outline-custom {
+    background-color: #000000;
+    color: #92a7b5;
+    paint-order: stroke fill markers;
+    stroke-linejoin: round;
+    stroke-width: 2;
+    border-radius: 5px;
+    margin-right: 40px;
+  }
+  
+.text-font
+{
+    font-size: 13px;
+    line-height: 25px;
+    color: #a7a7a7;
+    font-family: "Helvetica";
+}
+.horizontalLine
+{
+    border-top-style:dashed ;  
+    border-color: #4b4b4b;
+    border-width: 2px;
+}
+.vertical-line {
+    display: flex;
+    border-top: 0;
+    border-left: 2px dashed #4b4b4b; /* Độ rộng và màu sắc của đường dọc */
+    height: auto; /* Chiều cao của đường dọc */
+    width: auto;
+    padding: 0 0 0 0;
+}
